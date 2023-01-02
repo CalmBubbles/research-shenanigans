@@ -1,0 +1,130 @@
+RELATED LITERATURE 
+
+Bioplastic out of Calamansi (Citrus microcarpa)
+
+The study by S. Yaradoddi et al. (2020) focused om making bioplastic from food waste. Orange peel was chosen because of its high cellulose content and abundance. A bio-plastic film was made from orange peels using simple laboratory techniques. The film blends with glycerol as a plasticizer has indicated consistent and promising results. This has very good strength, flexibility, and degradability in soiling conditions morphologically has a rough surface, and verifies the film's bio-degradability. Orange peels consist of hemicelluloses, starch, cellulose, lignin, pectin, soluble sugars, fat, ash, protein, and flavonoids.[1]
+
+Plastic derived from petroleum is challenging to degrade and pollute the environment. There are alternatives to making biodegradable plastics to reduce the adverse effects of plastics on the environment. Listyarini et al.'s study aims to utilize dragon fruit peel waste as a material for making bioplastic. Plastic characterization was carried out by FTIR analysis to determine the functional groups contained in
+bioplastics. The results showed that dragon fruit peel could be extracted by HC1 the solution and the pectin yield is 11%. Extracted pectin was used to make bioplastics with and without the addition of ethylene glycol. The results showed that the moisture content of the bioplastics of dragon fruit peel pectin is 5.71-12%, while dragon fruit peel pectin and ethylene glycol are 2.86-5.71%. FT-IR spectra showed that the bioplastics from dragon fruit peels belong to the pectin group, which produces carbonyl absorption at 1636-1628 cm-1 and stretching C-0 stretch at 1098-1101 cm 1.[2]
+
+Unfamiliar Words:
+1.
+    - cellulose
+    - glycerol
+    - plasticizer
+    - soiling
+    - morphologically
+    - hemicelluloses
+    - lignin
+    - pectin
+    - flavonoids
+2.
+    - petroleum
+    - FTIR
+    - HC1
+    - yield
+    - ethylene glycol
+    - FT-IR spectra
+    - carbonyl absorption
+    - C-0
+
+References:
+1. Yaradoddi, J. S., Banapurmath, N. R., Ganachari, S. V., Soudagar, M. E. M., Sajjan, A. M., Kamat, S., ... & Ali, M. A. (2022). Bio-based material from fruit waste of orange peel for industrial applications. Journal of Materials Research and Technology, 17, 3186-3197. https://www.sciencedirect.com/science/article/pii/S2238785421009972
+2. Listyarini, R. V., Susilawatib, E. N. N., Nukung, E. N., & Yuaa, M. A. T. (2020). Bioplastic from pectin of dragon fruit (Hylocereus polyrhizus) peel. Jurnal Kimia Sains dan Aplikasi, 23(6), 203-208. https://pdfs.semanticscholar.org/3e43/c78b60422944469c5186fe34937488654e9b.pdf
+
+
+
+Fish Scales as Biodegradable Straw
+
+The objective of Thammahiwes et al.'s study was to prepare wheat gluten-based bioplastics with fish scale (FS) through compression molding. The tensile strength of the wheat gluten/FS composites (the range of 6.5–7.5 MPa) was higher than that of the neat wheat gluten-based bioplastic (3.40 MPa). There was a good dispersion of the fish scale powder embedded within the wheat gluten matrix. Dynamic mechanical analysis results showed that the tan delta max peak height and storage modulus of the wheat gluten-based bioplastic was reduced by adding the fish scale. Moreover, the addition of the fish scale caused weight loss and the surface of the wheat gluten-based bioplastic after 120 hours of accelerated weathering differed from the neat wheat gluten-based bioplastic. These results may help to find new applications for fish scale waste to control the degradation rate of wheat gluten-based bioplastic in the agricultural field.[1]
+
+The use of plastics results in detrimental effects on the natural world, which compels us to look for viable replacements. As a result of their enhanced capacity to biodegrade, bioplastics are becoming increasingly important materials. In recent years, there has been a rapid ascent in the utilization of biopolymers in various applications. The objective of Samraj et al.'s (2022) study is to investigate the impact that silica obtained from rice hull ash and microcrystalline cellulose obtained from groundnut husk have on the properties of bioplastic obtained from wheat gluten and fish scales. The usage of fish scales has been shown to have a positive effect on weight reduction and debasement rates. Microcrystalline cellulose (MCC) is utilized in a wide range of concentrations, and the influence of MCC on bioplastic is researched. The biodegradability tests of bioplastic revealed that the plastic lost 35% of its weight in just 14 days. The experiments that were done to evaluate the chemical stability and tensile strength of the bioplastic indicated that the MCC content has a significant effect in improving the characteristics of the material.[2]
+
+The protections provided to fishes, armadillos, and turtles by unique hierarchal designs help them to survive in surrounding environments. Natural armors offer protections with outstanding mechanical properties, such as high penetration resistance and toughness-to-weight ratio. The mechanical properties are not the only key features that make scales unique; they are also highly flexible and breathable. The study of Rawat et al. aim to review the structural and mechanical characteristics of the scales from ray-finned or teleost fishes, which can be used for new bio-inspired armor designs. It is also essential to consider the hierarchical structure of extinct and existing natural armor. The basic characteristics, as mentioned above, are the foundation for developing high-performance, well-structured flexible natural armors. Furthermore, the present review justifies the importance of interaction between toughness, hardness, and deformability in well-engineered bio-inspired body armor. At last, some suggestions are proposed for the design and fabrication of new bio-inspired flexible body armor.[3]
+
+Although biodegradable straws are widely used, they are often unsuitable for disposal in open environments and cannot be recycled in the same manner as conventional plastic straws. Hence, an effective disposal method needs to be developed. In the study of Kim et al. the thermochemical conversion of biodegradable straws made mostly of polylactic acid (PLA) was considered, and the effects of CO2 on the characteristics of thermochemical products produced from biodegradable straws were explored. The thermochemical conversion of the biodegradable straw in the CO2 atmosphere yielded more non-condensable gases than the thermochemical conversion in N2 owing to an enhanced thermal cracking of volatiles at 800 °C. At temperatures > 600 °C in CO2, the reverse water-gas shift reaction considerably increased the CO selectivity. Using CO2 in the thermochemical conversion decreased yields of char and wax, which was attributed to CO2 enhancing thermal cracking of volatiles evolved during the thermochemical conversion and C–H and O–H bonds present in the feedstock. The CO2 thermal agent promoted the cleavage of the polymeric bond of PLA to produce up to 14-fold more lactic acid (the monomer of PLA) than that produced with the N2 agent, while it suppressed radical reactions to produce fewer phenyls and polycyclic aromatic hydrocarbons. Thermochemical treatment in a CO2 environment has a significant feature of upcycling biodegradable plastic waste, such as biodegradable straws.[4]
+
+In the study of Jonsson et al. (2021), they examine popular choices for straw materials in a focus group (n = 9) and a consumer sensory test (n = 102), as well as testing the durability of straws when soaked in water. Cornstarch straws offered the most similar sensory experience to plastic, whereas options such as paper, wheat, pasta, and rice straws all scored low on mouthfeel and flavor liking, with off-flavors commonly reported in beverages consumed with these straws. A Kano analysis (n = 193) to determine the factors consumers find essential in drinking straws confirmed the most important to be that no flavors were imparted to beverages when used. Finally, a consumer survey (n = 579) confirmed that straw consumers primarily use them out of default availability; most use them only if they are given without asking, and most would readily give up plastic straws but may be unfamiliar with other options.[5]
+
+Unfamiliar Words:
+1.
+    - compression molding
+    - tensile
+    - MPa
+    - dispersion
+    - gluten matrix
+    - Dynamic mechanical analysis
+    - tan delta max peak height
+    - storage modulus
+2.
+    - detrimental
+    - compels
+    - viable
+    - silica
+    - microcrystalline cellulose
+    - debasement rates
+    - chemical stability
+    - tensile strength
+3.
+    - penetration resistance
+    - toughness-to-weight ratio
+4.
+    - thermochemical conversion
+    - polylactic acid
+    - thermochemical
+    - yielded
+    - non-condensable
+    - N2
+    - volatiles
+    - reverse water-gas shift reaction
+    - char
+    - C–H
+    - O–H
+    - feedstock
+    - thermal agent
+    - cleavage
+    - polymeric bond
+    - PLA
+    - 14-fold
+    - lactic acid
+    - monomer
+    - N2 agent
+    - radical reactions
+    - phenyls
+    - polycyclic aromatic hydrocarbons
+    - Thermochemical treatment
+5.
+    - consumer sensory test
+
+References:
+1. Thammahiwes, S., Riyajan, S. A., & Kaewtatip, K. (2017). Preparation and properties of wheat gluten based bioplastics with fish scale. Journal of cereal science, 75, 186-191. https://www.sciencedirect.com/science/article/abs/pii/S073352101630461
+2. Samraj, S., Senthilkumar, K., Induja, P., Venkata Ratnam, M., Aatral, G. V., & Ramakrishna, G. V. S. (2022). Extraction of Microcrystalline Cellulose and Silica from Agriculture Waste and Its Application in Synthesis of Wheat Gluten and Fish Scales Derived Bioplastic. International Journal of Biomaterials, 2022. https://www.hindawi.com/journals/ijbm/2022/2297364
+3. Rawat, P., Zhu, D., Rahman, M. Z., & Barthelat, F. (2021). Structural and mechanical properties of fish scales for the bio-inspired design of flexible body armors: A review. Acta Biomaterialia, 121, 41-67. https://www.sciencedirect.com/science/article/abs/pii/S174270612030708X
+4. Kim, S., Lee, H. S., Yang, W., Kwon, E. E., & Lee, J. (2022). Recovery of lactic acid from biodegradable straw waste through a CO2-assisted thermochemical process. Journal of CO2 Utilization, 64, 102164. https://www.sciencedirect.com/science/article/abs/pii/S2212982022002839
+5. Jonsson, A., Andersson, K., Stelick, A., & Dando, R. (2021). An evaluation of alternative biodegradable and reusable drinking straws as alternatives to single‐use plastic. Journal of Food Science, 86(7), 3219-3227. https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.15783
+
+
+
+Fish Scales as Biodegradable Straw
+
+The depletion of fossil fuels turns the application of biofuel into an alternative fuel. Conversion of cow manure into briquette is the alternative to reutilizing valuable chemicals in cow manure. This study aims to observe the suitable temperature for the briquetting of cow manure as a solid biofuel. The process involved drying, pulverizing, carbonization, and briquetting of cow manure. The carbonization of cow manure took place at three different temperatures; 300 °C (C300), 500 °C (C500), and 700 °C (C700). Some analyses on briquettes are performed namely proximate analysis, and compressive and caloric value tests. The calorific value for carbonization briquette of 300, 500, and 700 °C were 2434, 2402, and 2372 cal/g respectively. The carbonization of cow manure at 300 °C produced the highest calorific value of briquette. Therefore, preliminary observations indicated that carbonization at 300 °C able to densify the cow manure into briquette as a solid biofuel.[1]
+
+The paper of Stolarski et al. shows the quality and cost of small-scale production of briquettes, made from agricultural and forest biomass in north-eastern Poland. The experiment involved production of eight types of briquettes. The highest net calorific value was determined for briquettes made from pine sawdust (18,144 MJ t−1). The value measured for briquettes made from perennial energy plants was over 1500 MJ t−1 lower, and for those made from straw 2000 MJ t−1 lower than for sawdust briquettes. The sawdust briquettes left significantly the lowest amount of ash (0.40% of dry mass). The significantly highest content of hydrogen, sulphur and nitrogen was found in briquettes containing the highest portion of rapeseed oilcake. The quality of briquettes varied and only some of them met the requirements of DIN 51731. Briquettes made from pine sawdust were of the highest quality. The briquette production cost ranged from 66.55 € t−1 to 137.87 € t−1 for rape straw briquettes and for those made from a mixture of rape straw and rapeseed oilcake (50:50), respectively. In general, briquette production was profitable, except for the briquettes made from a straw and rapeseed oilcake mixture.[2]
+
+Unfamiliar Words:
+1.
+    - pulverizing
+    - carbonization
+    - proximate analysis
+    - compressive
+    - caloric value tests
+    - calorific value
+    - preliminary
+2.
+    - MJ t−1
+    - perennial energy
+    - DIN
+
+References:
+1. Mitan, N. M. M., & Badarulzaman, S. (2020). Preliminary observation on temperature effect of briquetting cow manure as a solid biofuel. In Proceedings of the 6th International Conference and Exhibition on Sustainable Energy and Advanced Materials (pp. 689-693). Springer, Singapore. https://link.springer.com/chapter/10.1007/978-981-15-4481-1_65
+2. Stolarski, M. J., Szczukowski, S., Tworkowski, J., Krzyżaniak, M., Gulczyński, P., & Mleczek, M. (2013). Comparison of quality and production cost of briquettes made from agricultural and forest origin biomass. Renewable energy, 57, 20-26. https://www.sciencedirect.com/science/article/abs/pii/S096014811300030X
