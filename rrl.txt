@@ -1,6 +1,6 @@
 RELATED LITERATURE 
 
-Bioplastic out of Calamansi (Citrus microcarpa)
+ACCEPTABILITY OF CALAMANSI (Citrus microcarpa) PEEL AS BIOPLASTIC
 
 The study by S. Yaradoddi et al. (2020) focused om making bioplastic from food waste. Orange peel was chosen because of its high cellulose content and abundance. A bio-plastic film was made from orange peels using simple laboratory techniques. The film blends with glycerol as a plasticizer has indicated consistent and promising results. This has very good strength, flexibility, and degradability in soiling conditions morphologically has a rough surface, and verifies the film's bio-degradability. Orange peels consist of hemicelluloses, starch, cellulose, lignin, pectin, soluble sugars, fat, ash, protein, and flavonoids.[1]
 
@@ -32,9 +32,7 @@ References:
 1. Yaradoddi, J. S., Banapurmath, N. R., Ganachari, S. V., Soudagar, M. E. M., Sajjan, A. M., Kamat, S., ... & Ali, M. A. (2022). Bio-based material from fruit waste of orange peel for industrial applications. Journal of Materials Research and Technology, 17, 3186-3197. https://www.sciencedirect.com/science/article/pii/S2238785421009972
 2. Listyarini, R. V., Susilawatib, E. N. N., Nukung, E. N., & Yuaa, M. A. T. (2020). Bioplastic from pectin of dragon fruit (Hylocereus polyrhizus) peel. Jurnal Kimia Sains dan Aplikasi, 23(6), 203-208. https://pdfs.semanticscholar.org/3e43/c78b60422944469c5186fe34937488654e9b.pdf
 
-
-
-Fish Scales as Biodegradable Straw
+EFFECTIVENESS OF FISH SCALES AS BIODEGRADABLE STRAW
 
 The objective of Thammahiwes et al.'s study was to prepare wheat gluten-based bioplastics with fish scale (FS) through compression molding. The tensile strength of the wheat gluten/FS composites (the range of 6.5–7.5 MPa) was higher than that of the neat wheat gluten-based bioplastic (3.40 MPa). There was a good dispersion of the fish scale powder embedded within the wheat gluten matrix. Dynamic mechanical analysis results showed that the tan delta max peak height and storage modulus of the wheat gluten-based bioplastic was reduced by adding the fish scale. Moreover, the addition of the fish scale caused weight loss and the surface of the wheat gluten-based bioplastic after 120 hours of accelerated weathering differed from the neat wheat gluten-based bioplastic. These results may help to find new applications for fish scale waste to control the degradation rate of wheat gluten-based bioplastic in the agricultural field.[1]
 
@@ -105,7 +103,7 @@ References:
 
 
 
-Fish Scales as Biodegradable Straw
+ACCEPTABILITY OF RABBIT MANURE AS AN ALTERNATIVE BRIQUETTE
 
 The depletion of fossil fuels turns the application of biofuel into an alternative fuel. Conversion of cow manure into briquette is the alternative to reutilizing valuable chemicals in cow manure. This study aims to observe the suitable temperature for the briquetting of cow manure as a solid biofuel. The process involved drying, pulverizing, carbonization, and briquetting of cow manure. The carbonization of cow manure took place at three different temperatures; 300 °C (C300), 500 °C (C500), and 700 °C (C700). Some analyses on briquettes are performed namely proximate analysis, and compressive and caloric value tests. The calorific value for carbonization briquette of 300, 500, and 700 °C were 2434, 2402, and 2372 cal/g respectively. The carbonization of cow manure at 300 °C produced the highest calorific value of briquette. Therefore, preliminary observations indicated that carbonization at 300 °C able to densify the cow manure into briquette as a solid biofuel.[1]
 
