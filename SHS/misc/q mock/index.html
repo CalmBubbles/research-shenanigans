@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"/>
+        
+        <link href="styles/main.css" rel="stylesheet" type="text/css">
+        <link href="styles/panels.css" rel="stylesheet" type="text/css">
+
+        <style>
+
+#create
+{
+    background: rgb(42, 42, 42);
+    border-radius: 100%;
+    width: 35px;
+    padding: 8px;
+    position: fixed;
+    bottom: 65px;
+    right: 15px;
+    z-index: 100;
+}
+
+        </style>
+    </head>
+    
+    <body>
+        <nav>
+            <div>
+                <img src="img/recent.svg">
+                <span>Recent</span>
+            </div>
+            <div>
+                <img src="img/online.svg">
+                <span>Online</span>
+            </div>
+            <div focused="1">
+                <img src="img/offline.svg">
+                <span>Offline</span>
+            </div>
+            <div>
+                <img src="img/user.svg">
+                <span>You</span>
+            </div>
+        </nav>
+
+        <img id="create" src="img/create.svg">
+
+        <main>
+            <div class="panel">
+                <div class="title">The Dog Test</div>
+                <div class="description">15 Items, 10 Minutes</div>
+                <div class="cover"></div>
+                <img src="img/dog.png">
+            </div>
+            <div class="panel">
+                <div class="title">Potatoes and its uses</div>
+                <div class="description">5 Items</div>
+                <div class="cover"></div>
+                <img src="img/patatas.png">
+            </div>
+            <div class="panel">
+                <div class="title">Pop icons</div>
+                <div class="description">50 Items, 1 Minutes</div>
+                <div class="cover"></div>
+                <img src="img/rick.png">
+            </div>
+        </main>
+    </body>
+</html>
